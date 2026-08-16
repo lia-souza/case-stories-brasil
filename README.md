@@ -43,7 +43,7 @@ Esse volume indica um inventário publicitário robusto e constante no formato S
 
 ## Principal aprendizado
 
-O maior erro em um problema de Fermi não é errar o número final — é usar uma premissa sem conseguir justificar por que a escolheu. Testar cada número contra a intuição e revisar quando necessário foi o que tornou a estimativa final defensável.
+O maior erro em um problema de Fermi não é errar o número final, mas sim usar uma premissa sem conseguir justificar por que a escolheu. Testar cada número contra a intuição e revisar quando necessário foi o que tornou a estimativa final defensável.
 
 ## Apresentação completa
 
