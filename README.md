@@ -4,7 +4,7 @@ Case desenvolvido durante o processo seletivo de estágio em **Mídias de Perfor
 
 ## O desafio
 
-Estimar, sem nenhum dado oficial disponível, quantos Stories são postados diariamente no Brasil. Esse tipo de problema (conhecido como "problema de Fermi") avalia raciocínio estruturado e capacidade de justificar premissas — não a precisão do resultado final.
+Estimar, sem nenhum dado oficial disponível, quantos Stories são postados diariamente no Brasil. Esse tipo de problema (conhecido como "problema de Fermi") avalia raciocínio estruturado e capacidade de justificar premissas, não a precisão do resultado final.
 
 ## Metodologia
 
