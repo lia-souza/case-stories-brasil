@@ -64,4 +64,4 @@ O maior erro em um problema de Fermi não é errar o número final — é usar u
 
 ---
 
-*Lia Oliveira de Souza · Case Técnico *
+*Lia Oliveira de Souza · Case Técnico*
